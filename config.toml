@@ -1,4 +1,4 @@
-theme = "matugen"
+theme = "bogster"
 [editor]
 true-color = true
 clipboard-provider = "pasteboard"
